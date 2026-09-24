@@ -18,3 +18,9 @@ Application web pour apprendre du vocabulaire anglais.
 ## Projet en développement
 
 Le projet sera progressivement amélioré avec React, Java Spring Boot, REST API, base de données et intelligence artificielle.
+
+## Test Git
+
+Projet en cours de développement.
+
+Premier test Git.
